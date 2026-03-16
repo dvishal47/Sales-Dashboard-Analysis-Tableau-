@@ -1,5 +1,5 @@
 # Sales-Dashboard-Analysis-Tableau-
-jnkThis project is a comprehensive sales analytics dashboard built in Tableau to track and visualize key business metrics across multiple dimensions.
+This project is a comprehensive sales analytics dashboard built in Tableau to track and visualize key business metrics across multiple dimensions.
 
 ### Key Metrics Analyzed:
 
